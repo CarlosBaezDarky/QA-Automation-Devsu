@@ -11,7 +11,7 @@ Este proyecto contiene pruebas automatizadas en **Cypress** para:
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/QA-Automation-Devsu.git
+   git clone https://github.com/CarlosBaezDarky/QA-Automation-Devsu
    cd QA-Automation-Devsu
 
 npm init -y 
