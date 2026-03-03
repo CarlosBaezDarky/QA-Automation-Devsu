@@ -1,0 +1,6 @@
+Conclusiones E2E - SauceDemo
+
+- El flujo de compra se completa correctamente con credenciales válidas.
+- Cypress permite validar mensajes visibles y estados de botones de forma sencilla.
+- Se identificó que los tiempos de carga son rápidos, pero el sistema no valida campos vacíos en el checkout.
+- Recomendación: agregar pruebas negativas para inputs vacíos y credenciales incorrectas.

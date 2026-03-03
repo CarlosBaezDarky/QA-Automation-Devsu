@@ -1,0 +1,7 @@
+Conclusiones APIs - Demoblaze
+
+- El endpoint signup responde correctamente al crear un usuario nuevo.
+- Al intentar registrar un usuario existente, devuelve el mensaje esperado de error.
+- El login genera un token válido con credenciales correctas.
+- El login rechaza credenciales incorrectas con mensaje de error.
+- Recomendación: validar expiración del token y manejo de sesiones.
